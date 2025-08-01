@@ -1,2 +1,3 @@
-# Kiwi-Nest
-https://discord.gg/TJKHw5nMSc 
+A repository for storing important stuffs from the Discord server 'Kiwi Nest'.
+
+we also have the [KIWI] tag as well so join
