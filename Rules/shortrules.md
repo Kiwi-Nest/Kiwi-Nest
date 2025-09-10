@@ -66,4 +66,6 @@ These are subject to change at any time without prior notice, and it is your res
 
 Although we aren't that strict with rules normally, if we do have to punish a member at some point, we will be strictly following these rules.
 
+The full version of the Rules can be viewed [here](https://github.com/Kiwi-Nest/Kiwi-Nest/blob/main/Rules/rules.md)
+
 -   Staff Team
