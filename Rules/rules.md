@@ -1,3 +1,7 @@
+10.09.2025 - Re-uploaded rules to Github
+
+---
+
 ### SECTION A: Responsibilities, and Definitions
 
 **A-1: Your Agreement**\
