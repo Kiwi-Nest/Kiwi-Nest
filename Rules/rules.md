@@ -21,12 +21,11 @@ Intentionally bending the rules and trying to find loopholes in the rules will r
 **A-5: Bypassing AutoMod**\
 If your message gets blocked, it was because it was blocked by automod. When this happens, do not try to send your message by changing the letters of words in order to push it through (eg, retard -> restarted). This is known as an automod bypass, and you will be punished for it.
 
-**A-6: Loopholes**\
-Intentionally bending the rules and trying to find loopholes in the rules will result in moderative action. Not every rule is perfectly defined, so avoid trying to prove otherwise.
-
-**A-7: Staff Rights**\
-You agree that the Staff reserves the right to do take any moderative action in any channel to keep the server safe for everyone. If we don't like you, you're out. There are both staffs who are kind and generous, but there are also strict and scary ones. Please do not take them lightly.\
+**A-6: Staff Rights**\
+You agree that the Staff reserves the right to do take any moderative action in any channel to keep the server safe for everyone. _If we don't like you, you're out_. There are both staffs who are kind and generous, but there are also strict and scary ones. Please do not take them lightly.\
 Staff reserves the right to remove any messages that they think is harmful to our server. Arguing with them will get you muted.
+
+These rules apply wherever you are in the server, and is not just limited to the section's scope. For example, 'SECTION B' may be applied to Voice Channels as well.
 
 ---
 
